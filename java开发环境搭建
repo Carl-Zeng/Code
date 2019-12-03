@@ -1,0 +1,7 @@
+1）配置本地java路径
+配置path
+配置classpath：
+CLASSPATH=.;%JAVA_HOME%\lib;%JAVA_HOME%\lib\tools.jar;.;
+
+2 安装eclipse
+3 配置maven
